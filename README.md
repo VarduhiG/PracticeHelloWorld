@@ -1,3 +1,5 @@
+![headshot](GitHub_practice.jpeg)
+
 # About me
 Hi everyone! My name is Varduhi. I am practicing GitHub in order to use for mini project in tumolab.
 
