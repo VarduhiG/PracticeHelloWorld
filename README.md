@@ -8,3 +8,6 @@ I am unemployed now, but before I was working as Marketing Manager in Beverage P
 
 ## My life Chalenge
 Currently i am challenging myself: changing my profession from Marketing to Project Manager.
+
+## Favorite Book
+Bible
